@@ -1,0 +1,14 @@
+{
+  "name": "warriors-bot",
+  "version": "1.0.0",
+  "description": "le bot du serv des warriors (enfin, et celui la il se fera pas hacker... j'espère...)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mizari | 𝕎",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4"
+  }
+}

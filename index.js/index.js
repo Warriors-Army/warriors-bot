@@ -5,7 +5,7 @@ client.commands = new Collection(); //création d'une collection pour répertori
 
 //constantes à utiliser partout dans le programme du bot
 client.PREFIX = "w?";
-client.MARQUE = "Warriors' Bot official";
+client.MARQUE = "Warriors Bot official";
 client.THUMB = "https://cdn.discordapp.com/emojis/594149233246863380.png?v=1";
  //pour la roulette
 client.ROULETTE = 5;
